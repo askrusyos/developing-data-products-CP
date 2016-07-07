@@ -47,7 +47,8 @@ tabsetPanel(
            h3("Selecting the fish species and the year"),
            h4("The use of this app is fairly intuitive: you just have to select a species of fish and a year from 2006 to 2014 and the annual catches for that species will be displayed in the cell at the bottom of the page."),
            h4("You can also choose to calculate the total annual catches by leaving the species table without selection."),
-           h4("(Click on a selected species to toggle the selection for it).")
+           h4("(Click on a selected species to toggle the selection for it)."),
+           h4("The source code of this app is available at: https://github.com/askrusyos/developing-data-products-CP")
            
            )
 ) #close tabsetpanel
